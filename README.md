@@ -5,11 +5,7 @@ Sobre mim:
 - 💻 Atualmente, iniciando os estudos sobre Análise de Dados e Data Science.
 - 🇯🇵❤️🇧🇷
 
-<div align="center">
- <h3>📊 Github Analytics</h3>
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=CrisNakamura&show_icons=true&theme=tokyonight" /> 
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=CrisNakamura&layout=compact&theme=tokyonight"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   <h3>⚙️ Tools</h3>
