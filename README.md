@@ -1,8 +1,12 @@
 
-# ☕ Cris Nakamura
+# ☕ Olá! Me chamo Cris.
 <img src="https://i.ibb.co/G5mz2m4/machine-learning.png" min-width="250px" max-width="250px" width="250px" align="right">
 
-Olá! Tenho 23 anos, nascida no Japão, sou formada em Ciência da Computação. <br>Minha jornada profissional começou como tradutora, onde desenvolvi habilidades de análise e comunicação. <br>Entusiasta de dados e apaixonada pelos insights que elas podem proporcionar. <br>Atualmente em transição de carreira.<br><br>✍️ Estou me especializado em análise de dados, Data Science e com um "pezinho" em Machine Learning.
+Nascida na Terra do Sol Nascente e formada em Ciência da Computação. Atualmente residindo em SP.
+<br>Minha jornada profissional começou como tradutora de japonês, onde desenvolvi habilidades de análise e comunicação. 
+<br>Entusiasta de dados e apaixonada pelos insights que elas podem proporcionar. <br>Atualmente em transição de carreira.
+<br><br>✍️ Estou me especializado em análise de dados, Data Science e Machine Learning.
+<br>🐋 Amante de cubos mágicos, puzzles, leitura, idiomas e belugas.
 
 <p align="left">
  <strong>Contatos:<strong>
@@ -15,8 +19,10 @@ Olá! Tenho 23 anos, nascida no Japão, sou formada em Ciência da Computação.
 <a href="https://cris-nakamura.my.canva.site/portfolio"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
 </p>
 
-<details>
-    <summary>Tools:</summary>
+<p align="left">
+ <strong>Tools:<strong>
+</p>
+<p align="left">
     
   ![Python](https://img.shields.io/badge/python-282a38?style=for-the-badge&logo=python&logoColor=white) 
   ![Pandas](https://img.shields.io/badge/pandas-282a38?style=for-the-badge&logo=pandas&logoColor=white)
@@ -26,8 +32,11 @@ Olá! Tenho 23 anos, nascida no Japão, sou formada em Ciência da Computação.
   ![Scipy](https://img.shields.io/badge/SciPy-282a38?style=for-the-badge&logo=scipy&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-282a38?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Power Bi](https://img.shields.io/badge/power_bi-282a38?style=for-the-badge&logo=powerbi&logoColor=white)
-  </details>
-  
+  ![SQL](https://img.shields.io/badge/sql-282a38?style=for-the-badge&logo=sql&logoColor=white)
+
+</a>
+</p>
+
 ## GitHub Stats:
 <div>
   <table style="margin: 0 auto;" align="center">
